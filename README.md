@@ -74,7 +74,6 @@ Dashboard data is **computed dynamically** from financial records (not stored in
 
 <img width="829" height="947" alt="image" src="https://github.com/user-attachments/assets/b9ebdff4-08a8-474f-9582-b758709362c9" />
 
-```
 ---
 
 ## 🔄 API Endpoints
